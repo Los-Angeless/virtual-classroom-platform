@@ -1,4 +1,4 @@
-\# 🎓 Virtual Classroom Platform
+\ 🎓 Virtual Classroom Platform
 
 
 
@@ -10,7 +10,7 @@ A full-stack AI-powered virtual classroom built with Spring Boot \& React.js —
 
 
 
-\## 🚀 Features
+\ 🚀 Features
 
 
 
@@ -34,7 +34,7 @@ A full-stack AI-powered virtual classroom built with Spring Boot \& React.js —
 
 
 
-\## 🛠 Tech Stack
+\ 🛠 Tech Stack
 
 
 
@@ -50,17 +50,15 @@ A full-stack AI-powered virtual classroom built with Spring Boot \& React.js —
 
 
 
-\## 🔧 Setup Instructions
+\ 🔧 Setup Instructions
 
 
 
-\### 🔹 Backend (Spring Boot)
+\ 🔹 Backend (Spring Boot)
 
 
 
 1\. Clone the repo:
-
-&nbsp;  ```bash
 
 &nbsp;  git clone https://github.com/Los-Angeless/virtual-classroom-platform.git
 
